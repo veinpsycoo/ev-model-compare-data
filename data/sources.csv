@@ -1,0 +1,988 @@
+slug,field,source,url,as_of
+gmc-hummer-ev-pickup-3x,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2025 GMC Hummer EV Pickup 3X — EPA vehicle class ""Standard Pickup Trucks 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48344,2026-09
+gmc-hummer-ev-pickup-3x,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate; Geotab publishes no separate pickup class, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+gmc-hummer-ev-pickup-3x,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+gmc-hummer-ev-pickup-3x,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+gmc-hummer-ev-pickup-3x,warranty_battery_years,"GMC Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9222/en_US/4.0/25_GMC_Electric_Vehicle_WM_en_US_U_18455115A_2024MAY22.pdf,2026-09
+gmc-hummer-ev-pickup-3x,warranty_battery_mi,"GMC Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9222/en_US/4.0/25_GMC_Electric_Vehicle_WM_en_US_U_18455115A_2024MAY22.pdf,2026-09
+gmc-hummer-ev-pickup-3x,warranty_soh_floor,"GMC Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9222/en_US/4.0/25_GMC_Electric_Vehicle_WM_en_US_U_18455115A_2024MAY22.pdf,2026-09
+kia-ev3-long-range-fwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Kia EV3 Long Range FWD — EPA vehicle class ""Small Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50649,2026-09
+kia-ev3-long-range-fwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+kia-ev3-long-range-fwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+kia-ev3-long-range-fwd,battery_gross_kwh,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,battery_pack_arch,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,dc_10_80_min,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,ac_onboard_kw,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,dc_connector_us,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,power_kw,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,torque_nm,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,msrp_usd,"Kia Media — 2027 Kia EV3 Specifications and 2027 EV3 pricing release, 12 Aug 2026",https://www.kiamedia.com/us/en/models/ev3/2027/specifications,2026-09
+kia-ev3-long-range-fwd,warranty_battery_years,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev3-long-range-fwd,warranty_battery_mi,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev3-long-range-fwd,warranty_soh_floor,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+hyundai-ioniq-9-rwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Hyundai Ioniq 9 RWD — EPA vehicle class ""Standard Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50375,2026-09
+hyundai-ioniq-9-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+hyundai-ioniq-9-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+hyundai-ioniq-9-rwd,battery_gross_kwh,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,battery_pack_voltage,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,dc_10_80_min,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,ac_onboard_kw,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,dc_connector_us,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,power_kw,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,torque_nm,Hyundai Motor America — 2026 IONIQ 9 Specs and Features,https://www.hyundainews.com/assets/documents/original/65341-2026IONIQ9SpecsFeatures20250305.pdf,2026-09
+hyundai-ioniq-9-rwd,battery_usable_kwh,EVKX.net — Hyundai IONIQ 9 RWD Long Range,https://evkx.net/models/hyundai/ioniq_9/ioniq_9_rwd_long_range/,2026-09
+hyundai-ioniq-9-rwd,battery_chemistry,EVKX.net — Hyundai IONIQ 9 RWD Long Range,https://evkx.net/models/hyundai/ioniq_9/ioniq_9_rwd_long_range/,2026-09
+hyundai-ioniq-9-rwd,dc_peak_kw,EVKX.net — Hyundai IONIQ 9 RWD Long Range,https://evkx.net/models/hyundai/ioniq_9/ioniq_9_rwd_long_range/,2026-09
+hyundai-ioniq-9-rwd,battery_pack_arch,EVKX.net — Hyundai IONIQ 9 RWD Long Range,https://evkx.net/models/hyundai/ioniq_9/ioniq_9_rwd_long_range/,2026-09
+hyundai-ioniq-9-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 HYUNDAI IONIQ 9 SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+hyundai-ioniq-9-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+hyundai-ioniq-9-rwd,warranty_battery_years,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-9-rwd,warranty_battery_mi,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-9-rwd,warranty_soh_floor,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+rivian-r1s-dual-motor-max-pack,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Rivian R1S Dual Max (22in) — EPA vehicle class ""Standard Sport Utility Vehicle 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49719,2026-09
+rivian-r1s-dual-motor-max-pack,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+rivian-r1s-dual-motor-max-pack,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+rivian-r1s-dual-motor-max-pack,battery_usable_kwh,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,battery_gross_kwh,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,battery_chemistry,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,dc_peak_kw,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,dc_10_80_min,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,ac_onboard_kw,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,battery_pack_arch,EVKX.net — Rivian R1S Dual-Motor AWD Max Pack full specifications,https://evkx.net/models/rivian/r1/r1s_dual-motor_awd_mp/,2026-09
+rivian-r1s-dual-motor-max-pack,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+rivian-r1s-dual-motor-max-pack,warranty_battery_years,"R1T + R1S New Vehicle Limited Warranty Guide, Effective December 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+rivian-r1s-dual-motor-max-pack,warranty_battery_mi,"R1T + R1S New Vehicle Limited Warranty Guide, Effective December 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+rivian-r1s-dual-motor-max-pack,warranty_soh_floor,"R1T + R1S New Vehicle Limited Warranty Guide, Effective December 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+tesla-cybertruck-long-range,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Tesla Cybertruck Long Range — EPA vehicle class ""Standard Pickup Trucks 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49152,2026-09
+tesla-cybertruck-long-range,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate; Geotab publishes no separate pickup class, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+tesla-cybertruck-long-range,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+tesla-cybertruck-long-range,warranty_battery_years,"Tesla Cybertruck New Vehicle Limited Warranty, Battery and Drive Unit, effective 2025/06/05 — all Cybertruck variants",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-cybertruck-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-cybertruck-long-range,warranty_battery_mi,"Tesla Cybertruck New Vehicle Limited Warranty, Battery and Drive Unit, effective 2025/06/05 — all Cybertruck variants",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-cybertruck-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-cybertruck-long-range,warranty_soh_floor,"Tesla Cybertruck New Vehicle Limited Warranty, Battery and Drive Unit, effective 2025/06/05 — all Cybertruck variants",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-cybertruck-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-cybertruck-long-range,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 TESLA CYBERTRUCK (ALL VARIANTS) PU/CC AWD,https://www.nhtsa.gov/ratings,2026-09
+tesla-cybertruck-long-range,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+ford-f-150-lightning-extended-range,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Ford F-150 Lightning 4WD ER1 — EPA vehicle class ""Standard Pickup Trucks 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48705,2026-09
+ford-f-150-lightning-extended-range,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate; Geotab publishes no separate pickup class, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+ford-f-150-lightning-extended-range,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+ford-f-150-lightning-extended-range,battery_usable_kwh,Ford Motor Company — 2025 F-150 Lightning Technical Specifications,https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2025/specs/2025-Ford-F-150-Lightning-Technical-Specifications.pdf,2026-09
+ford-f-150-lightning-extended-range,dc_peak_kw,Ford Motor Company — 2025 F-150 Lightning Technical Specifications,https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2025/specs/2025-Ford-F-150-Lightning-Technical-Specifications.pdf,2026-09
+ford-f-150-lightning-extended-range,ac_onboard_kw,Ford Motor Company — 2025 F-150 Lightning Technical Specifications,https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2025/specs/2025-Ford-F-150-Lightning-Technical-Specifications.pdf,2026-09
+ford-f-150-lightning-extended-range,battery_gross_kwh,EVKX.net — Ford F-150 Lightning Extended Range charging curve and full specifications (10-80% penceresi; Ford kendi fisinde 15-80% yayimliyor),https://evkx.net/models/ford/f150_lightning/f150_lightning_extended_range/,2026-09
+ford-f-150-lightning-extended-range,battery_chemistry,EVKX.net — Ford F-150 Lightning Extended Range charging curve and full specifications (10-80% penceresi; Ford kendi fisinde 15-80% yayimliyor),https://evkx.net/models/ford/f150_lightning/f150_lightning_extended_range/,2026-09
+ford-f-150-lightning-extended-range,dc_10_80_min,EVKX.net — Ford F-150 Lightning Extended Range charging curve and full specifications (10-80% penceresi; Ford kendi fisinde 15-80% yayimliyor),https://evkx.net/models/ford/f150_lightning/f150_lightning_extended_range/,2026-09
+ford-f-150-lightning-extended-range,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Ford F-150 (Super Crew) Lightning BEV PU/CC 4WD,https://www.nhtsa.gov/ratings,2026-09
+ford-f-150-lightning-extended-range,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+ford-f-150-lightning-extended-range,warranty_battery_years,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-f-150-lightning-extended-range,warranty_battery_mi,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-f-150-lightning-extended-range,warranty_soh_floor,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+lexus-rz-350e-fwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lexus RZ 350e FWD (18 inch wheels) — EPA vehicle class ""Small Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50291,2026-09
+lexus-rz-350e-fwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+lexus-rz-350e-fwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+lexus-rz-350e-fwd,battery_gross_kwh,"Lexus USA Newsroom — 2026 Lexus RZ Adds More Power and Performance, 19 May 2025",https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/,2026-09
+lexus-rz-350e-fwd,dc_10_80_min,"Lexus USA Newsroom — 2026 Lexus RZ Adds More Power and Performance, 19 May 2025",https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/,2026-09
+lexus-rz-350e-fwd,ac_onboard_kw,"Lexus USA Newsroom — 2026 Lexus RZ Adds More Power and Performance, 19 May 2025",https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/,2026-09
+lexus-rz-350e-fwd,dc_connector_us,"Lexus USA Newsroom — 2026 Lexus RZ Adds More Power and Performance, 19 May 2025",https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/,2026-09
+lexus-rz-350e-fwd,power_kw,"Lexus USA Newsroom — 2026 Lexus RZ Adds More Power and Performance, 19 May 2025",https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/,2026-09
+lexus-rz-350e-fwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+audi-q4-45-e-tron,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Audi Q4 45 e-tron — EPA vehicle class ""Standard Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49612,2026-09
+audi-q4-45-e-tron,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+audi-q4-45-e-tron,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+audi-q4-45-e-tron,battery_gross_kwh,Audi USA — 2026 Audi Q4 e-tron overview,https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/,2026-09
+audi-q4-45-e-tron,dc_peak_kw,Audi USA — 2026 Audi Q4 e-tron overview,https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/,2026-09
+audi-q4-45-e-tron,dc_10_80_min,Audi USA — 2026 Audi Q4 e-tron overview,https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/,2026-09
+audi-q4-45-e-tron,power_kw,Audi USA — 2026 Audi Q4 e-tron overview,https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/,2026-09
+audi-q4-45-e-tron,msrp_usd,Audi USA — 2026 Audi Q4 e-tron overview,https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/,2026-09
+audi-q4-45-e-tron,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 AUDI Q4 E-TRON SUV BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+audi-q4-45-e-tron,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+audi-q4-45-e-tron,warranty_battery_years,"MY26 Audi Warranty & Maintenance, Electric (US, English) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/833e0014-3452-4f34-916a-e9e2d5e2b818,2026-09
+audi-q4-45-e-tron,warranty_battery_mi,"MY26 Audi Warranty & Maintenance, Electric (US, English) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/833e0014-3452-4f34-916a-e9e2d5e2b818,2026-09
+audi-q4-45-e-tron,warranty_soh_floor,"MY26 Audi Warranty & Maintenance, Electric (US, English) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/833e0014-3452-4f34-916a-e9e2d5e2b818,2026-09
+mercedes-benz-cla-250-with-eq-technology,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Mercedes-Benz CLA250 Plus with EQ Tech — EPA vehicle class ""Compact Cars""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50659,2026-09
+mercedes-benz-cla-250-with-eq-technology,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+mercedes-benz-cla-250-with-eq-technology,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+mercedes-benz-cla-250-with-eq-technology,battery_usable_kwh,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,battery_chemistry,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,battery_pack_arch,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,dc_peak_kw,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,ac_onboard_kw,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,dc_10_80_min,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,power_kw,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,torque_nm,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,curb_weight_kg,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,msrp_usd,Mercedes-Benz USA Media — 2027 Mercedes-Benz CLA Electric,https://media.mbusa.com/releases/release-7aeb9c7519b934580e3c750ecc007a90-2027-mercedes-benz-cla-electric,2026-09
+mercedes-benz-cla-250-with-eq-technology,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+mercedes-benz-cla-250-with-eq-technology,warranty_battery_years,"Mercedes-Benz EQ Models Service and Warranty Information 2027 (US, MY2027)",https://www.mbusa.com/content/dam/mb-nafta/us/my27-content-request/MY27_EQ_Warranty_and_Service_Booklet_Web_Eng_Sp_DRAFT.pdf,2026-09
+mercedes-benz-cla-250-with-eq-technology,warranty_battery_mi,"Mercedes-Benz EQ Models Service and Warranty Information 2027 (US, MY2027)",https://www.mbusa.com/content/dam/mb-nafta/us/my27-content-request/MY27_EQ_Warranty_and_Service_Booklet_Web_Eng_Sp_DRAFT.pdf,2026-09
+polestar-2-single-motor,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2025 Polestar 2 Single Motor (19 Inch Wheels) — EPA vehicle class ""Midsize Cars""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48405,2026-09
+polestar-2-single-motor,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+polestar-2-single-motor,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+polestar-2-single-motor,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Polestar Polestar 2 5 HB RWD,https://www.nhtsa.gov/ratings,2026-09
+polestar-2-single-motor,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+polestar-2-single-motor,warranty_battery_years,Warranty FAQs | Polestar US (US),https://www.polestar.com/us/support/faq/warranty/,2026-09
+polestar-2-single-motor,warranty_battery_mi,Warranty FAQs | Polestar US (US),https://www.polestar.com/us/support/faq/warranty/,2026-09
+genesis-gv60-awd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Genesis GV60 AWD (19 inch Wheels) — EPA vehicle class ""Small Sport Utility Vehicle 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50636,2026-09
+genesis-gv60-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+genesis-gv60-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+genesis-gv60-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 GENESIS GV60 SUV BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+genesis-gv60-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+genesis-gv60-awd,warranty_battery_years,"Warranty Information & 2026 Owner's Handbook (Genesis USA) (US, MY2026)",https://owners.genesis.com/genesis/us/mygenesis/manuals/factory-warranty/2026/2026%20Genesis%20Warranty%20Information.pdf,2026-09
+genesis-gv60-awd,warranty_battery_mi,"Warranty Information & 2026 Owner's Handbook (Genesis USA) (US, MY2026)",https://owners.genesis.com/genesis/us/mygenesis/manuals/factory-warranty/2026/2026%20Genesis%20Warranty%20Information.pdf,2026-09
+genesis-gv60-awd,warranty_soh_floor,"Warranty Information & 2026 Owner's Handbook (Genesis USA) (US, MY2026)",https://owners.genesis.com/genesis/us/mygenesis/manuals/factory-warranty/2026/2026%20Genesis%20Warranty%20Information.pdf,2026-09
+nissan-leaf-75-kwh,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Nissan LEAF 75kWh (18 inch steel Wheels) — EPA vehicle class ""Small Station Wagons""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49975,2026-09
+nissan-leaf-75-kwh,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+nissan-leaf-75-kwh,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+nissan-leaf-75-kwh,battery_usable_kwh,Nissan USA — 2026 LEAF features and press kit,https://www.nissanusa.com/vehicles/electric-cars/leaf/features.html,2026-09
+nissan-leaf-75-kwh,dc_peak_kw,Nissan USA — 2026 LEAF features and press kit,https://www.nissanusa.com/vehicles/electric-cars/leaf/features.html,2026-09
+nissan-leaf-75-kwh,dc_10_80_min,Nissan USA — 2026 LEAF features and press kit,https://www.nissanusa.com/vehicles/electric-cars/leaf/features.html,2026-09
+nissan-leaf-75-kwh,dc_connector_us,Nissan USA — 2026 LEAF features and press kit,https://www.nissanusa.com/vehicles/electric-cars/leaf/features.html,2026-09
+nissan-leaf-75-kwh,battery_gross_kwh,EVKX.net — Nissan LEAF Long Range,https://evkx.net/models/nissan/leaf/leaf_long_range/,2026-09
+nissan-leaf-75-kwh,battery_chemistry,EVKX.net — Nissan LEAF Long Range,https://evkx.net/models/nissan/leaf/leaf_long_range/,2026-09
+nissan-leaf-75-kwh,ac_onboard_kw,EVKX.net — Nissan LEAF Long Range,https://evkx.net/models/nissan/leaf/leaf_long_range/,2026-09
+nissan-leaf-75-kwh,battery_pack_arch,EVKX.net — Nissan LEAF Long Range,https://evkx.net/models/nissan/leaf/leaf_long_range/,2026-09
+nissan-leaf-75-kwh,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+subaru-solterra-awd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Subaru Solterra AWD — EPA vehicle class ""Small Sport Utility Vehicle 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50690,2026-09
+subaru-solterra-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+subaru-solterra-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+subaru-solterra-awd,battery_gross_kwh,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,dc_peak_kw,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,dc_10_80_min,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,ac_onboard_kw,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,dc_connector_us,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,msrp_usd,"Subaru of America — 2027 Subaru Solterra press release, 18 Jun 2026",https://media.subaru.com/newsrelease.do?id=2458&mid=1,2026-09
+subaru-solterra-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Subaru Solterra SUV AWD,https://www.nhtsa.gov/ratings,2026-09
+subaru-solterra-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+subaru-solterra-awd,warranty_battery_years,"Subaru Warranty and Maintenance Booklet (Solterra, 2023 MY) (US)",https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF,2026-09
+subaru-solterra-awd,warranty_battery_mi,"Subaru Warranty and Maintenance Booklet (Solterra, 2023 MY) (US)",https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF,2026-09
+subaru-solterra-awd,warranty_soh_floor,"Subaru Warranty and Maintenance Booklet (Solterra, 2023 MY) (US)",https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF,2026-09
+acura-zdx-rwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Acura ZDX RWD — EPA vehicle class ""Standard Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50023,2026-09
+acura-zdx-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+acura-zdx-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+acura-zdx-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Acura ZDX SUV RWD,https://www.nhtsa.gov/ratings,2026-09
+acura-zdx-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+honda-prologue-fwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Honda Prologue FWD — EPA vehicle class ""Standard Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50208,2026-09
+honda-prologue-fwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+honda-prologue-fwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+honda-prologue-fwd,battery_gross_kwh,"Honda — 2026 Honda Prologue Specifications & Features, press release, 28 Oct 2025",https://hondanews.com/en-US/honda-automobiles/releases/release-e5d30c25af38c0c6604e43e79c015883-2026-honda-prologue-specifications-features,2026-09
+honda-prologue-fwd,power_kw,"Honda — 2026 Honda Prologue Specifications & Features, press release, 28 Oct 2025",https://hondanews.com/en-US/honda-automobiles/releases/release-e5d30c25af38c0c6604e43e79c015883-2026-honda-prologue-specifications-features,2026-09
+honda-prologue-fwd,torque_nm,"Honda — 2026 Honda Prologue Specifications & Features, press release, 28 Oct 2025",https://hondanews.com/en-US/honda-automobiles/releases/release-e5d30c25af38c0c6604e43e79c015883-2026-honda-prologue-specifications-features,2026-09
+honda-prologue-fwd,curb_weight_kg,"Honda — 2026 Honda Prologue Specifications & Features, press release, 28 Oct 2025",https://hondanews.com/en-US/honda-automobiles/releases/release-e5d30c25af38c0c6604e43e79c015883-2026-honda-prologue-specifications-features,2026-09
+honda-prologue-fwd,seats,"Honda — 2026 Honda Prologue Specifications & Features, press release, 28 Oct 2025",https://hondanews.com/en-US/honda-automobiles/releases/release-e5d30c25af38c0c6604e43e79c015883-2026-honda-prologue-specifications-features,2026-09
+honda-prologue-fwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 HONDA PROLOGUE SUV BEV FWD,https://www.nhtsa.gov/ratings,2026-09
+honda-prologue-fwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+lucid-air-pure-rwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Lucid Air Pure RWD with 19 inch wheels — EPA vehicle class ""Large Cars""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49969,2026-09
+lucid-air-pure-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+lucid-air-pure-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+lucid-air-pure-rwd,battery_usable_kwh,Lucid Motors — '5.0 miles/kWh: Say Hello to the World's Most Efficient Car',https://lucidmotors.com/stories/5-miles-kwh-worlds-most-efficient-car,2026-09
+lucid-air-pure-rwd,battery_gross_kwh,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,battery_chemistry,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,dc_peak_kw,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,dc_10_80_min,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,ac_onboard_kw,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,battery_pack_arch,EVKX.net — Lucid Air Pure,https://evkx.net/models/lucid/air/air_pure/,2026-09
+lucid-air-pure-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 LUCID AIR 4 DR BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+lucid-air-pure-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+lucid-air-pure-rwd,warranty_battery_years,"New Vehicle Limited Warranty, North America, Lucid Vehicles Model Year 2026 (US, MY2026)",https://lucidmotors.com/s3fs-public/pdf/New-Vehicle-Limited-Warranty-en-US-MY26.pdf,2026-09
+lucid-air-pure-rwd,warranty_battery_mi,"New Vehicle Limited Warranty, North America, Lucid Vehicles Model Year 2026 (US, MY2026)",https://lucidmotors.com/s3fs-public/pdf/New-Vehicle-Limited-Warranty-en-US-MY26.pdf,2026-09
+lucid-air-pure-rwd,warranty_soh_floor,"New Vehicle Limited Warranty, North America, Lucid Vehicles Model Year 2026 (US, MY2026)",https://lucidmotors.com/s3fs-public/pdf/New-Vehicle-Limited-Warranty-en-US-MY26.pdf,2026-09
+cadillac-optiq-rwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac OPTIQ RWD 19kW Charger — EPA vehicle class ""Standard Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50623,2026-09
+cadillac-optiq-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+cadillac-optiq-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+cadillac-optiq-rwd,battery_usable_kwh,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,dc_peak_kw,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,dc_connector_us,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,ac_onboard_kw,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,power_kw,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,torque_nm,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,seats,Cadillac — 2027 OPTIQ Specifications,https://www.cadillac.com/electric/optiq/specs,2026-09
+cadillac-optiq-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+cadillac-lyriq-rwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Cadillac LYRIQ 19kW Charger — EPA vehicle class ""Small Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50613,2026-09
+cadillac-lyriq-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+cadillac-lyriq-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+cadillac-lyriq-rwd,battery_usable_kwh,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,dc_peak_kw,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,dc_connector_us,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,ac_onboard_kw,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,power_kw,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,torque_nm,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,seats,Cadillac — 2027 LYRIQ Specifications,https://www.cadillac.com/electric/lyriq/specs,2026-09
+cadillac-lyriq-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 CADILLAC LYRIQ SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+cadillac-lyriq-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+chevrolet-silverado-ev-max-range,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger)",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Silverado EV Max Range WT (19kW Charger) — EPA vehicle class ""Standard Pickup Trucks 4WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49639,2026-09
+chevrolet-silverado-ev-max-range,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate; Geotab publishes no separate pickup class, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+chevrolet-silverado-ev-max-range,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+chevrolet-silverado-ev-max-range,msrp_usd,GM Fleet — Chevrolet Silverado EV,https://www.gmfleet.com/vehicles/electric-vehicles/chevrolet-silverado-ev,2026-09
+chevrolet-silverado-ev-max-range,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 CHEVROLET SILVERADO EV PU/CC BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+chevrolet-silverado-ev-max-range,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+chevrolet-silverado-ev-max-range,warranty_battery_years,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-silverado-ev-max-range,warranty_battery_mi,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-silverado-ev-max-range,warranty_soh_floor,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-blazer-ev-fwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2027 Chevrolet Blazer EV FWD — EPA vehicle class ""Small Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50628,2026-09
+chevrolet-blazer-ev-fwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+chevrolet-blazer-ev-fwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+chevrolet-blazer-ev-fwd,dc_connector_us,Chevrolet — 2027 Blazer EV,https://www.chevrolet.com/electric/blazer-ev,2026-09
+chevrolet-blazer-ev-fwd,msrp_usd,Chevrolet — 2027 Blazer EV,https://www.chevrolet.com/electric/blazer-ev,2026-09
+chevrolet-blazer-ev-fwd,seats,Chevrolet — 2027 Blazer EV,https://www.chevrolet.com/electric/blazer-ev,2026-09
+chevrolet-blazer-ev-fwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 CHEVROLET BLAZER EV SUV BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+chevrolet-blazer-ev-fwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+chevrolet-blazer-ev-fwd,warranty_battery_years,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-blazer-ev-fwd,warranty_battery_mi,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-blazer-ev-fwd,warranty_soh_floor,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-equinox-ev-fwd,model_year,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,range_epa_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,range_epa_city_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,range_epa_hwy_mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,efficiency_epa_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,efficiency_epa_city_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,efficiency_epa_hwy_kwh_per_100mi,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,body_style,"US EPA / US Department of Energy — fueleconomy.gov, 2026 Chevrolet Equinox EV FWD — EPA vehicle class ""Small Sport Utility Vehicle 2WD""",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49953,2026-09
+chevrolet-equinox-ev-fwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+chevrolet-equinox-ev-fwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+chevrolet-equinox-ev-fwd,battery_usable_kwh,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,battery_gross_kwh,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,dc_peak_kw,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,dc_10_80_min,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,ac_onboard_kw,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,battery_pack_arch,EVKX.net — Chevrolet Equinox EV FWD full specifications,https://evkx.net/models/chevrolet/equinox_ev/equinox_ev_fwd/,2026-09
+chevrolet-equinox-ev-fwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 CHEVROLET EQUINOX EV SUV BEV FWD,https://www.nhtsa.gov/ratings,2026-09
+chevrolet-equinox-ev-fwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+chevrolet-equinox-ev-fwd,warranty_battery_years,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-equinox-ev-fwd,warranty_battery_mi,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+chevrolet-equinox-ev-fwd,warranty_soh_floor,"Chevrolet Electric Vehicle Limited Warranty and Owner Assistance Information 2025 (US, MY2025)",https://contentdelivery.ext.gm.com/bypass/gma-content-api/resources/sites/GMA/content/staging/MANUALS/9000/MA9223/en_US/7.0/25_CHEV_Electric_Vehicle_WM_en_US_U_18455116A_2024MAY22.pdf,2026-09
+ford-mustang-mach-e-sr-rwd,battery_gross_kwh,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,battery_usable_kwh,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,battery_chemistry,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,battery_pack_arch,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,range_wltp_km,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,range_real_world_km,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,efficiency_wltp_wh_per_km,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,dc_peak_kw,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,dc_10_80_min,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,ac_onboard_kw,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,power_kw,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,torque_nm,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,accel_0_100_kmh_s,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,top_speed_kmh,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,curb_weight_kg,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,msrp_eur,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,msrp_gbp,EV Database — Ford Mustang Mach-E SR RWD (MY25),https://ev-database.org/car/3187/Ford-Mustang-Mach-E-SR-RWD,2026-09
+ford-mustang-mach-e-sr-rwd,dc_connector,"Ford — 2026 Mustang Mach-E specifications, native NACS port",https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-sr-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+ford-mustang-mach-e-sr-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+ford-mustang-mach-e-sr-rwd,warranty_battery_years,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-mustang-mach-e-sr-rwd,range_epa_mi,EPA fueleconomy.gov — 2026 Ford Mustang Mach-E RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Ford Mustang Mach-E RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,dc_connector_us,"Ford — 2026 Mustang Mach-E specifications, native NACS port",https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-sr-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 FORD MUSTANG MACH-E BEV SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+ford-mustang-mach-e-sr-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+ford-mustang-mach-e-sr-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD, certification record 50204",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD, certification record 50204",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD, certification record 50204",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD, certification record 50204",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50204,2026-09
+ford-mustang-mach-e-sr-rwd,warranty_battery_mi,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-mustang-mach-e-sr-rwd,warranty_soh_floor,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+tesla-model-y-rwd,battery_gross_kwh,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,battery_usable_kwh,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,battery_chemistry,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,battery_pack_arch,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,range_wltp_km,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,range_real_world_km,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,efficiency_wltp_wh_per_km,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,dc_peak_kw,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,dc_10_80_min,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,ac_onboard_kw,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,power_kw,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,accel_0_100_kmh_s,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,top_speed_kmh,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,curb_weight_kg,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,msrp_eur,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,msrp_gbp,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,dc_connector,"EV Database — Tesla Model Y RWD (Juniper, 2025-2026)",https://ev-database.org/car/3362/Tesla-Model-Y-RWD,2026-09
+tesla-model-y-rwd,euroncap_overall_stars,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+tesla-model-y-rwd,euroncap_year,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+tesla-model-y-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+tesla-model-y-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+tesla-model-y-rwd,warranty_battery_years,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-y-rwd,warranty_battery_mi,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-y-rwd,warranty_soh_floor,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-3-rwd,battery_gross_kwh,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,battery_usable_kwh,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,battery_chemistry,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,battery_pack_arch,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,range_wltp_km,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,range_real_world_km,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,efficiency_wltp_wh_per_km,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,dc_peak_kw,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,dc_10_80_min,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,ac_onboard_kw,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,power_kw,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,torque_nm,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,accel_0_100_kmh_s,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,top_speed_kmh,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,curb_weight_kg,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,msrp_eur,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,msrp_gbp,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,dc_connector,"EV Database — Tesla Model 3 RWD (Highland, 2025-2026)",https://ev-database.org/car/3403/Tesla-Model-3-RWD,2026-09
+tesla-model-3-rwd,euroncap_overall_stars,"Euro NCAP — Tesla Model 3, 2025 protocol, 5 stars",https://www.euroncap.com/en/results/tesla/model-3/57085,2026-09
+tesla-model-3-rwd,euroncap_year,"Euro NCAP — Tesla Model 3, 2025 protocol, 5 stars",https://www.euroncap.com/en/results/tesla/model-3/57085,2026-09
+tesla-model-3-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+tesla-model-3-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+tesla-model-3-rwd,warranty_battery_years,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-3-rwd,warranty_battery_mi,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-3-rwd,warranty_soh_floor,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Standard / RWD tier",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+nissan-ariya-e-4orce-87-kwh,battery_gross_kwh,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,battery_usable_kwh,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,battery_chemistry,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,battery_pack_voltage,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,battery_pack_arch,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,range_wltp_km,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,range_real_world_km,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,efficiency_wltp_wh_per_km,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,dc_peak_kw,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,dc_10_80_min,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,ac_onboard_kw,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,power_kw,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,torque_nm,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,top_speed_kmh,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,curb_weight_kg,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,msrp_gbp,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,euroncap_overall_stars,"Euro NCAP — Nissan Ariya, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/nissan/ariya/47755,2026-09
+nissan-ariya-e-4orce-87-kwh,euroncap_year,"Euro NCAP — Nissan Ariya, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/nissan/ariya/47755,2026-09
+nissan-ariya-e-4orce-87-kwh,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+nissan-ariya-e-4orce-87-kwh,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+nissan-ariya-e-4orce-87-kwh,dc_connector,"EV Database — Nissan Ariya e-4ORCE 87 kWh, 225 kW",https://ev-database.org/uk/car/1304/Nissan-Ariya-e-4ORCE-87kWh---225-kW,2026-09
+nissan-ariya-e-4orce-87-kwh,range_epa_mi,EPA fueleconomy.gov — 2026 Nissan ARIYA e-4ORCE 87kWh,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+nissan-ariya-e-4orce-87-kwh,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Nissan ARIYA e-4ORCE 87kWh,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+nissan-ariya-e-4orce-87-kwh,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 NISSAN ARIYA SUV N/A AWD,https://www.nhtsa.gov/ratings,2026-09
+nissan-ariya-e-4orce-87-kwh,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+nissan-ariya-e-4orce-87-kwh,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Nissan ARIYA e-4ORCE 87kWh, certification record 50225",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+nissan-ariya-e-4orce-87-kwh,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Nissan ARIYA e-4ORCE 87kWh, certification record 50225",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+nissan-ariya-e-4orce-87-kwh,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Nissan ARIYA e-4ORCE 87kWh, certification record 50225",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+nissan-ariya-e-4orce-87-kwh,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Nissan ARIYA e-4ORCE 87kWh, certification record 50225",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50225,2026-09
+toyota-bz4x-awd,battery_gross_kwh,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,battery_usable_kwh,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,battery_chemistry,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,battery_pack_voltage,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,battery_pack_arch,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,range_wltp_km,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,range_real_world_km,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,efficiency_wltp_wh_per_km,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,dc_peak_kw,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,dc_10_80_min,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,ac_onboard_kw,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,v2l_kw,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,power_kw,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,torque_nm,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,accel_0_100_kmh_s,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,top_speed_kmh,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,curb_weight_kg,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,msrp_eur,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,msrp_gbp,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,euroncap_overall_stars,"Euro NCAP — Toyota bZ4X, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/toyota/bz4x/47139,2026-09
+toyota-bz4x-awd,euroncap_year,"Euro NCAP — Toyota bZ4X, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/toyota/bz4x/47139,2026-09
+toyota-bz4x-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+toyota-bz4x-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+toyota-bz4x-awd,dc_connector,EV Database — Toyota bZ4X AWD 73.1 kWh (MY25),https://ev-database.org/car/3135/Toyota-bZ4X-AWD-731-kWh,2026-09
+toyota-bz4x-awd,range_epa_mi,EPA fueleconomy.gov — 2026 Toyota bZ AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Toyota bZ AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Toyota bZ4X SUV AWD,https://www.nhtsa.gov/ratings,2026-09
+toyota-bz4x-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+toyota-bz4x-awd,dc_connector_us,"Toyota USA Newsroom, 13 May 2025 - the 2026 bZ (the renamed bZ4X) is ""equipped with North American Charging System (NACS) port""",https://pressroom.toyota.com/toyota-bz-all-electric-suv-adds-range-charging-and-exterior-updates-for-2026/,2026-09
+toyota-bz4x-awd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Toyota bZ AWD, certification record 49985",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Toyota bZ AWD, certification record 49985",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Toyota bZ AWD, certification record 49985",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Toyota bZ AWD, certification record 49985",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49985,2026-09
+toyota-bz4x-awd,warranty_battery_years,Toyota Battery Warranty (toyota.com) (US),https://www.toyota.com/electrified-vehicles/warranty/,2026-09
+toyota-bz4x-awd,warranty_battery_mi,Toyota Battery Warranty (toyota.com) (US),https://www.toyota.com/electrified-vehicles/warranty/,2026-09
+toyota-bz4x-awd,warranty_soh_floor,Toyota Battery Warranty (toyota.com) (US),https://www.toyota.com/electrified-vehicles/warranty/,2026-09
+volkswagen-id4-pro,battery_gross_kwh,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,battery_usable_kwh,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,battery_chemistry,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,battery_pack_voltage,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,battery_pack_arch,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,range_wltp_km,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,range_real_world_km,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,efficiency_wltp_wh_per_km,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,dc_peak_kw,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,dc_10_80_min,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,ac_onboard_kw,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,power_kw,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,torque_nm,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,accel_0_100_kmh_s,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,top_speed_kmh,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,curb_weight_kg,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,msrp_eur,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,msrp_gbp,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,euroncap_overall_stars,"Euro NCAP — Volkswagen ID.4, 2021 protocol, 5 stars",https://www.euroncap.com/en/results/vw/id4/42456,2026-09
+volkswagen-id4-pro,euroncap_year,"Euro NCAP — Volkswagen ID.4, 2021 protocol, 5 stars",https://www.euroncap.com/en/results/vw/id4/42456,2026-09
+volkswagen-id4-pro,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+volkswagen-id4-pro,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+volkswagen-id4-pro,dc_connector,EV Database — Volkswagen ID.4 Pro (MY26),https://ev-database.org/car/3250/Volkswagen-ID4-Pro,2026-09
+volkswagen-id4-pro,range_epa_mi,EPA fueleconomy.gov — 2025 Volkswagen ID.4 Pro,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2025 Volkswagen ID.4 Pro,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 VOLKSWAGEN ID.4 SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+volkswagen-id4-pro,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+volkswagen-id4-pro,msrp_usd,"Volkswagen USA — 2026 ID.4 model page, ID.4 Pro starting MSRP, excludes destination",https://www.vw.com/en/models/id-4.html,2026-09
+volkswagen-id4-pro,dc_connector_us,"Volkswagen of America, 12 November 2025 - ID.4 owners reach the Supercharger network with the ""NACS to Combined Charging System (CCS) port"" adapter, so the car's own DC port is CCS1",https://media.vw.com/releases/1891,2026-09
+volkswagen-id4-pro,range_epa_city_mi,"EPA fueleconomy.gov - 2025 Volkswagen ID.4 Pro, certification record 49156",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,range_epa_hwy_mi,"EPA fueleconomy.gov - 2025 Volkswagen ID.4 Pro, certification record 49156",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Volkswagen ID.4 Pro, certification record 49156",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Volkswagen ID.4 Pro, certification record 49156",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49156,2026-09
+volkswagen-id4-pro,warranty_battery_years,"VW MY26 Warranty & Maintenance, Electric (USA, English V3) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/3f46834c-72ed-4851-9034-211909d76bb3,2026-09
+volkswagen-id4-pro,warranty_battery_mi,"VW MY26 Warranty & Maintenance, Electric (USA, English V3) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/3f46834c-72ed-4851-9034-211909d76bb3,2026-09
+volkswagen-id4-pro,warranty_soh_floor,"VW MY26 Warranty & Maintenance, Electric (USA, English V3) (US, MY2026)",https://ownersliterature.vw.com/owners-literature-service/v1/document/3f46834c-72ed-4851-9034-211909d76bb3,2026-09
+kia-ev6-long-range-rwd,battery_gross_kwh,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,battery_usable_kwh,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,battery_chemistry,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,battery_pack_voltage,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,battery_pack_arch,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,range_wltp_km,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,range_real_world_km,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,efficiency_wltp_wh_per_km,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,dc_peak_kw,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,dc_10_80_min,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,ac_onboard_kw,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,v2l_kw,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,power_kw,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,torque_nm,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,top_speed_kmh,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,curb_weight_kg,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,msrp_gbp,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,euroncap_overall_stars,"Euro NCAP — Kia EV6, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/kia/ev6/45871,2026-09
+kia-ev6-long-range-rwd,euroncap_year,"Euro NCAP — Kia EV6, 2022 protocol, 5 stars",https://www.euroncap.com/en/results/kia/ev6/45871,2026-09
+kia-ev6-long-range-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+kia-ev6-long-range-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+kia-ev6-long-range-rwd,dc_connector,EV Database — Kia EV6 RWD (2024-2026),https://ev-database.org/uk/car/3028/Kia-EV6-RWD,2026-09
+kia-ev6-long-range-rwd,range_epa_mi,EPA fueleconomy.gov — 2026 Kia EV6 Long Range RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Kia EV6 Long Range RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 KIA EV6 SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+kia-ev6-long-range-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+kia-ev6-long-range-rwd,msrp_usd,"Kia USA — 2026 EV6 model page, Light Long Range (RWD, 319-mile EPA range) starting MSRP, excludes destination",https://www.kia.com/us/en/ev6,2026-09
+kia-ev6-long-range-rwd,dc_connector_us,"Kia America press release, 24 April 2025 - ""2025 model year Kia EV6 and 2026 model year EV9 come standard with NACS charging ports""",https://www.kiamedia.com/us/en/media/pressreleases/23210/kia-ev6-ev9-and-niro-owners-gain-access-to-over-21500-tesla-superchargers,2026-09
+kia-ev6-long-range-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Kia EV6 Long Range RWD, certification record 50214",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Kia EV6 Long Range RWD, certification record 50214",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Kia EV6 Long Range RWD, certification record 50214",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Kia EV6 Long Range RWD, certification record 50214",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50214,2026-09
+kia-ev6-long-range-rwd,warranty_battery_years,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev6-long-range-rwd,warranty_battery_mi,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev6-long-range-rwd,warranty_soh_floor,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+hyundai-ioniq-5-long-range-rwd,battery_gross_kwh,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,battery_usable_kwh,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,battery_chemistry,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,battery_pack_voltage,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,battery_pack_arch,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,range_wltp_km,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,range_real_world_km,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,efficiency_wltp_wh_per_km,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,dc_peak_kw,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,dc_10_80_min,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,ac_onboard_kw,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,v2l_kw,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,power_kw,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,torque_nm,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,accel_0_100_kmh_s,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,top_speed_kmh,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,curb_weight_kg,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,msrp_eur,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,msrp_gbp,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,euroncap_overall_stars,"Euro NCAP — Hyundai IONIQ 5, 2021 protocol, 5 stars",https://www.euroncap.com/assessments/hyundai/ioniq-5/0893/,2026-09
+hyundai-ioniq-5-long-range-rwd,euroncap_year,"Euro NCAP — Hyundai IONIQ 5, 2021 protocol, 5 stars",https://www.euroncap.com/assessments/hyundai/ioniq-5/0893/,2026-09
+hyundai-ioniq-5-long-range-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+hyundai-ioniq-5-long-range-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+hyundai-ioniq-5-long-range-rwd,dc_connector,EV Database — Hyundai IONIQ 5 84 kWh RWD (MY24),https://ev-database.org/car/2236/Hyundai-IONIQ-5-84-kWh-RWD,2026-09
+hyundai-ioniq-5-long-range-rwd,range_epa_mi,EPA fueleconomy.gov — 2026 Hyundai Ioniq 5 RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Hyundai Ioniq 5 RWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2024 Hyundai Ioniq 5 SUV Early Release RWD,https://www.nhtsa.gov/ratings,2026-09
+hyundai-ioniq-5-long-range-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+hyundai-ioniq-5-long-range-rwd,dc_connector_us,"Hyundai — 2025 IONIQ 5 gains a native NACS port, Hyundai Motor America newsroom",https://www.hyundainews.com/en-us/releases/4231,2026-09
+hyundai-ioniq-5-long-range-rwd,msrp_usd,"Hyundai USA — 2026 IONIQ 5 features & specs, SE (RWD, 318-mile EPA range) starting MSRP, excludes destination",https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs,2026-09
+hyundai-ioniq-5-long-range-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Hyundai Ioniq 5 RWD, certification record 49960",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Hyundai Ioniq 5 RWD, certification record 49960",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Hyundai Ioniq 5 RWD, certification record 49960",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Hyundai Ioniq 5 RWD, certification record 49960",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49960,2026-09
+hyundai-ioniq-5-long-range-rwd,warranty_battery_years,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-5-long-range-rwd,warranty_battery_mi,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-5-long-range-rwd,warranty_soh_floor,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+tesla-model-3-long-range-awd,battery_gross_kwh,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,battery_usable_kwh,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,battery_chemistry,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,battery_pack_arch,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,range_wltp_km,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,range_real_world_km,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,efficiency_wltp_wh_per_km,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,dc_peak_kw,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,dc_10_80_min,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,ac_onboard_kw,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,power_kw,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,torque_nm,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,accel_0_100_kmh_s,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,top_speed_kmh,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,curb_weight_kg,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,msrp_eur,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,msrp_gbp,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,euroncap_overall_stars,"Euro NCAP — Tesla Model 3, 2025 protocol, 5 stars",https://www.euroncap.com/en/results/tesla/model-3/57085,2026-09
+tesla-model-3-long-range-awd,euroncap_year,"Euro NCAP — Tesla Model 3, 2025 protocol, 5 stars",https://www.euroncap.com/en/results/tesla/model-3/57085,2026-09
+tesla-model-3-long-range-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+tesla-model-3-long-range-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+tesla-model-3-long-range-awd,dc_connector,EV Database — Tesla Model 3 Long Range AWD (Highland),https://ev-database.org/car/3331/Tesla-Model-3-Long-Range-AWD,2026-09
+tesla-model-3-long-range-awd,range_epa_mi,EPA fueleconomy.gov — 2025 Tesla Model 3 Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2025 Tesla Model 3 Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 TESLA MODEL 3 4 DR BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+tesla-model-3-long-range-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+tesla-model-3-long-range-awd,dc_connector_us,Tesla — North American Charging Standard: all Tesla vehicles sold in North America use a NACS charge port,https://www.tesla.com/NACS,2026-09
+tesla-model-3-long-range-awd,range_epa_city_mi,"EPA fueleconomy.gov - 2025 Tesla Model 3 Long Range AWD, certification record 48764",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2025 Tesla Model 3 Long Range AWD, certification record 48764",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Tesla Model 3 Long Range AWD, certification record 48764",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Tesla Model 3 Long Range AWD, certification record 48764",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48764,2026-09
+tesla-model-3-long-range-awd,warranty_battery_years,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-3-long-range-awd,warranty_battery_mi,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-3-long-range-awd,warranty_soh_floor,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+rivian-r1t-dual-motor-large-pack,range_epa_mi,EPA fueleconomy.gov — 2026 Rivian R1T Dual Large (20in),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+rivian-r1t-dual-motor-large-pack,battery_gross_kwh,Rivian R1T published specifications and EPA range,https://rivian.com/r1t,2026-09
+rivian-r1t-dual-motor-large-pack,dc_connector,"Rivian — R1T published specifications, native NACS port",https://rivian.com/r1t,2026-09
+rivian-r1t-dual-motor-large-pack,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate; Geotab publishes no separate pickup class, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+rivian-r1t-dual-motor-large-pack,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+rivian-r1t-dual-motor-large-pack,warranty_battery_years,"Rivian — R1T + R1S New Vehicle Limited Warranty Guide, effective Dec 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+rivian-r1t-dual-motor-large-pack,warranty_battery_mi,"Rivian — R1T + R1S New Vehicle Limited Warranty Guide, effective Dec 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+rivian-r1t-dual-motor-large-pack,warranty_soh_floor,"Rivian — R1T + R1S New Vehicle Limited Warranty Guide, effective Dec 31, 2024 (US, MY2025)",https://assets.rivian.com/2md5qhoeajym/4Gu8v9hXmik94CHAKis9mG/c6008f410cac191abd746bd60274bb22/r1t_r1s-new-vehicle-limited-warranty-guide-us-en-us-20241231.pdf,2026-09
+rivian-r1t-dual-motor-large-pack,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+rivian-r1t-dual-motor-large-pack,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Rivian R1T Dual Large (20in),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+rivian-r1t-dual-motor-large-pack,dc_connector_us,"Rivian — R1T published specifications, native NACS port",https://rivian.com/r1t,2026-09
+rivian-r1t-dual-motor-large-pack,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Rivian R1T Dual Large (20in), certification record 49708",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+rivian-r1t-dual-motor-large-pack,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Rivian R1T Dual Large (20in), certification record 49708",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+rivian-r1t-dual-motor-large-pack,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Rivian R1T Dual Large (20in), certification record 49708",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+rivian-r1t-dual-motor-large-pack,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Rivian R1T Dual Large (20in), certification record 49708",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49708,2026-09
+ford-mustang-mach-e-extended-range-rwd,range_epa_mi,EPA fueleconomy.gov — 2026 Ford Mustang Mach-E RWD Extended,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+ford-mustang-mach-e-extended-range-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Ford Mustang Mach-E RWD Extended,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+ford-mustang-mach-e-extended-range-rwd,battery_usable_kwh,Ford — 2026 Mustang Mach-E specifications,https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-extended-range-rwd,dc_10_80_min,Ford — 2026 Mustang Mach-E specifications,https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-extended-range-rwd,ac_onboard_kw,Ford — 2026 Mustang Mach-E specifications,https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-extended-range-rwd,dc_connector,"Ford — 2026 Mustang Mach-E specifications, native NACS port",https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-extended-range-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+ford-mustang-mach-e-extended-range-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+ford-mustang-mach-e-extended-range-rwd,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+ford-mustang-mach-e-extended-range-rwd,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+ford-mustang-mach-e-extended-range-rwd,warranty_battery_years,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-mustang-mach-e-extended-range-rwd,warranty_battery_mi,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-mustang-mach-e-extended-range-rwd,warranty_soh_floor,"2025 Model Year Battery Electric Vehicle Warranty Guide (E-Transit, Mustang Mach-E, F-150 Lightning) (US, MY2025)",https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/25MYUS_Ford_F150_Lightning_WTY_V2.pdf,2026-09
+ford-mustang-mach-e-extended-range-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+ford-mustang-mach-e-extended-range-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 FORD MUSTANG MACH-E BEV SUV BEV RWD,https://www.nhtsa.gov/ratings,2026-09
+ford-mustang-mach-e-extended-range-rwd,range_wltp_km,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,range_real_world_km,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,efficiency_wltp_wh_per_km,"EV Database — Ford Mustang Mach-E ER RWD, EVDB Real Range vehicle consumption (185 Wh/km)",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,dc_peak_kw,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,power_kw,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,torque_nm,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,accel_0_100_kmh_s,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,top_speed_kmh,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,curb_weight_kg,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,battery_pack_arch,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,msrp_eur,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,msrp_gbp,"EV Database — Ford Mustang Mach-E ER RWD (MY25), European specification",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,dc_connector_us,"Ford — 2026 Mustang Mach-E specifications, native NACS port",https://www.ford.com/suvs/mach-e/,2026-09
+ford-mustang-mach-e-extended-range-rwd,battery_pack_voltage,"EV Database — Ford Mustang Mach-E ER RWD (MY25), battery architecture listed as 400 V",https://ev-database.org/car/3188/Ford-Mustang-Mach-E-ER-RWD,2026-09
+ford-mustang-mach-e-extended-range-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD Extended, certification record 50205",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+ford-mustang-mach-e-extended-range-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD Extended, certification record 50205",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+ford-mustang-mach-e-extended-range-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD Extended, certification record 50205",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+ford-mustang-mach-e-extended-range-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Ford Mustang Mach-E RWD Extended, certification record 50205",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50205,2026-09
+volvo-ex30-single-motor-extended-range,battery_gross_kwh,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,battery_usable_kwh,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,battery_chemistry,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,range_wltp_km,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,range_real_world_km,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,efficiency_wltp_wh_per_km,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,dc_peak_kw,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,dc_10_80_min,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,ac_onboard_kw,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,accel_0_100_kmh_s,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,top_speed_kmh,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,curb_weight_kg,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,msrp_eur,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,msrp_gbp,EV Database — Volvo EX30 Single Motor ER,https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+volvo-ex30-single-motor-extended-range,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+volvo-ex30-single-motor-extended-range,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+volvo-ex30-single-motor-extended-range,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+volvo-ex30-single-motor-extended-range,warranty_battery_years,"Volvo Car USA — 2026 Fully Electric Models Warranty and Maintenance Records Information (US, MY2026)",https://www.volvocars.com/images/cs/v3/assets/bltccbab8edae0354cd/blt79f8a67d798c8d78/68befcffe94f786661a1f43a/MY2026_WTY572.06.25_Fully_Elec_Wty_Manual_Rev2_WEB_06-18-25.pdf,2026-09
+volvo-ex30-single-motor-extended-range,warranty_battery_mi,"Volvo Car USA — 2026 Fully Electric Models Warranty and Maintenance Records Information (US, MY2026)",https://www.volvocars.com/images/cs/v3/assets/bltccbab8edae0354cd/blt79f8a67d798c8d78/68befcffe94f786661a1f43a/MY2026_WTY572.06.25_Fully_Elec_Wty_Manual_Rev2_WEB_06-18-25.pdf,2026-09
+volvo-ex30-single-motor-extended-range,warranty_soh_floor,"Volvo Car USA — 2026 Fully Electric Models Warranty and Maintenance Records Information (US, MY2026)",https://www.volvocars.com/images/cs/v3/assets/bltccbab8edae0354cd/blt79f8a67d798c8d78/68befcffe94f786661a1f43a/MY2026_WTY572.06.25_Fully_Elec_Wty_Manual_Rev2_WEB_06-18-25.pdf,2026-09
+volvo-ex30-single-motor-extended-range,euroncap_overall_stars,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+volvo-ex30-single-motor-extended-range,euroncap_year,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+volvo-ex30-single-motor-extended-range,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+volvo-ex30-single-motor-extended-range,range_epa_mi,EPA fueleconomy.gov — 2026 Volvo EX30 Single motor extended range,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+volvo-ex30-single-motor-extended-range,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Volvo EX30 Single motor extended range,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+volvo-ex30-single-motor-extended-range,power_kw,EV Database — Volvo EX30 Single Motor ER (MY24-26),https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,torque_nm,EV Database — Volvo EX30 Single Motor ER (MY24-26),https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,battery_pack_voltage,EV Database — Volvo EX30 Single Motor ER (MY24-26),https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,battery_pack_arch,EV Database — Volvo EX30 Single Motor ER (MY24-26),https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,v2l_kw,EV Database — Volvo EX30 Single Motor ER (MY24-26),https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER,2026-09
+volvo-ex30-single-motor-extended-range,dc_connector_us,Volvo Car USA - Supercharger access for compatible Volvo electric cars is through the NACS Fast Charging Adapter rather than a native port,https://www.volvocars.com/us/l/north-american-charging-standard/,2026-09
+volvo-ex30-single-motor-extended-range,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Volvo EX30 Single motor extended range, certification record 49989",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+volvo-ex30-single-motor-extended-range,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Volvo EX30 Single motor extended range, certification record 49989",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+volvo-ex30-single-motor-extended-range,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Volvo EX30 Single motor extended range, certification record 49989",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+volvo-ex30-single-motor-extended-range,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Volvo EX30 Single motor extended range, certification record 49989",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49989,2026-09
+bmw-i4-edrive40,battery_gross_kwh,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,battery_usable_kwh,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,battery_chemistry,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,range_wltp_km,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,range_real_world_km,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,efficiency_wltp_wh_per_km,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,dc_peak_kw,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,dc_10_80_min,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,ac_onboard_kw,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,accel_0_100_kmh_s,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,top_speed_kmh,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,curb_weight_kg,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,msrp_eur,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,msrp_gbp,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+bmw-i4-edrive40,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+bmw-i4-edrive40,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+bmw-i4-edrive40,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+bmw-i4-edrive40,warranty_battery_years,BMW USA — FAQ: warranty for the high-voltage lithium-ion battery (US),https://faq.bmwusa.com/s/article/FAQ-Battery-lifespan-in-an-all-electric-BMW-BMW-USA-slhiX?language=en_US,2026-09
+bmw-i4-edrive40,warranty_battery_mi,BMW USA — FAQ: warranty for the high-voltage lithium-ion battery (US),https://faq.bmwusa.com/s/article/FAQ-Battery-lifespan-in-an-all-electric-BMW-BMW-USA-slhiX?language=en_US,2026-09
+bmw-i4-edrive40,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+bmw-i4-edrive40,range_epa_mi,EPA fueleconomy.gov — 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+bmw-i4-edrive40,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+bmw-i4-edrive40,power_kw,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,torque_nm,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,battery_pack_voltage,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,battery_pack_arch,EV Database — BMW i4 eDrive40 (2025-2026),https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,dc_connector,"EV Database — BMW i4 eDrive40 (2025-2026), fast-charging port listed as CCS (Combined Charging System, CCS Combo 2)",https://ev-database.org/car/3205/BMW-i4-eDrive40,2026-09
+bmw-i4-edrive40,msrp_usd,"BMW USA — 2026 i4 Gran Coupe model page, i4 eDrive40 starting MSRP (EPA range 307-333 mi by wheel size; 333 matches our record), excludes destination",https://www.bmwusa.com/vehicles/i-series/i4/bmw-i4-gran-coupe.html,2026-09
+bmw-i4-edrive40,range_epa_city_mi,"EPA fueleconomy.gov - 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels), certification record 50188",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+bmw-i4-edrive40,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels), certification record 50188",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+bmw-i4-edrive40,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels), certification record 50188",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+bmw-i4-edrive40,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 BMW i4 eDrive40 Gran Coupe (18 inch wheels), certification record 50188",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50188,2026-09
+byd-seal-awd-excellence,battery_gross_kwh,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,battery_usable_kwh,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,battery_chemistry,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,range_wltp_km,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,range_real_world_km,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,efficiency_wltp_wh_per_km,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,dc_peak_kw,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,dc_10_80_min,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,ac_onboard_kw,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,accel_0_100_kmh_s,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,top_speed_kmh,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,curb_weight_kg,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,msrp_eur,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,msrp_gbp,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+byd-seal-awd-excellence,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+byd-seal-awd-excellence,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+byd-seal-awd-excellence,euroncap_overall_stars,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+byd-seal-awd-excellence,euroncap_year,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+byd-seal-awd-excellence,power_kw,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,torque_nm,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,battery_pack_voltage,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,battery_pack_arch,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,battery_cell_supplier,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+byd-seal-awd-excellence,v2l_kw,EV Database — BYD SEAL 82.5 kWh AWD Excellence (MY26),https://ev-database.org/car/3516/BYD-SEAL-825-kWh-AWD-Excellence,2026-09
+volkswagen-id7-pro,battery_gross_kwh,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,battery_usable_kwh,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,battery_chemistry,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,range_wltp_km,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,range_real_world_km,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,efficiency_wltp_wh_per_km,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,dc_peak_kw,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,dc_10_80_min,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,ac_onboard_kw,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,accel_0_100_kmh_s,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,top_speed_kmh,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,curb_weight_kg,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,msrp_eur,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,msrp_gbp,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+volkswagen-id7-pro,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+volkswagen-id7-pro,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+volkswagen-id7-pro,warranty_battery_years,"Manufacturer battery warranty, 2026 industry comparison. Terms vary by market — check your local warranty booklet.",https://recharged.com/articles/ev-battery-warranty-comparison-all-brands/,2026
+volkswagen-id7-pro,warranty_soh_floor,"Manufacturer battery warranty, 2026 industry comparison. Terms vary by market — check your local warranty booklet.",https://recharged.com/articles/ev-battery-warranty-comparison-all-brands/,2026
+volkswagen-id7-pro,power_kw,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,torque_nm,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,battery_pack_voltage,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+volkswagen-id7-pro,battery_pack_arch,EV Database — Volkswagen ID.7 Pro (MY26),https://ev-database.org/car/3256/Volkswagen-ID7-Pro,2026-09
+kia-ev9-awd,battery_gross_kwh,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,battery_usable_kwh,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,battery_chemistry,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,range_wltp_km,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,range_real_world_km,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,efficiency_wltp_wh_per_km,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,dc_peak_kw,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,dc_10_80_min,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,ac_onboard_kw,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,accel_0_100_kmh_s,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,top_speed_kmh,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,curb_weight_kg,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,msrp_eur,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+kia-ev9-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+kia-ev9-awd,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+kia-ev9-awd,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+kia-ev9-awd,warranty_battery_years,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev9-awd,warranty_battery_mi,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev9-awd,warranty_soh_floor,Kia Warranty (Kia USA) (US),https://www.kia.com/us/en/warranty,2026-09
+kia-ev9-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 KIA EV9 SUV BEV AWD,https://www.nhtsa.gov/ratings,2026-09
+kia-ev9-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+kia-ev9-awd,range_epa_mi,EPA fueleconomy.gov — 2026 Kia EV9 Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+kia-ev9-awd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Kia EV9 Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+kia-ev9-awd,power_kw,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,torque_nm,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,battery_pack_voltage,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,battery_pack_arch,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,v2l_kw,EV Database — Kia EV9 99.8 kWh AWD,https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD,2026-09
+kia-ev9-awd,msrp_usd,"Kia USA — 2026 EV9 model page, Wind AWD (99.8 kWh, 283-mile EPA range) starting MSRP, excludes destination",https://www.kia.com/us/en/ev9,2026-09
+kia-ev9-awd,dc_connector_us,"Kia America press release, 24 April 2025 - ""2025 model year Kia EV6 and 2026 model year EV9 come standard with NACS charging ports""",https://www.kiamedia.com/us/en/media/pressreleases/23210/kia-ev6-ev9-and-niro-owners-gain-access-to-over-21500-tesla-superchargers,2026-09
+kia-ev9-awd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Kia EV9 Long Range AWD, certification record 49667",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+kia-ev9-awd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Kia EV9 Long Range AWD, certification record 49667",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+kia-ev9-awd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Kia EV9 Long Range AWD, certification record 49667",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+kia-ev9-awd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Kia EV9 Long Range AWD, certification record 49667",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49667,2026-09
+porsche-taycan-rwd,battery_gross_kwh,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,battery_usable_kwh,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,battery_chemistry,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,range_wltp_km,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,range_real_world_km,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,efficiency_wltp_wh_per_km,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,dc_peak_kw,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,dc_10_80_min,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,ac_onboard_kw,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,accel_0_100_kmh_s,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,top_speed_kmh,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,curb_weight_kg,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,msrp_eur,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,msrp_gbp,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+porsche-taycan-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+porsche-taycan-rwd,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+porsche-taycan-rwd,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+porsche-taycan-rwd,warranty_battery_years,"2026 Porsche BEV Warranty Manual (US) (US, MY2026)",https://files.porsche.com/f/332100/e20438714a/2026-bev-warranty-manual.pdf,2026-09
+porsche-taycan-rwd,warranty_battery_mi,"2026 Porsche BEV Warranty Manual (US) (US, MY2026)",https://files.porsche.com/f/332100/e20438714a/2026-bev-warranty-manual.pdf,2026-09
+porsche-taycan-rwd,warranty_soh_floor,"2026 Porsche BEV Warranty Manual (US) (US, MY2026)",https://files.porsche.com/f/332100/e20438714a/2026-bev-warranty-manual.pdf,2026-09
+porsche-taycan-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+porsche-taycan-rwd,power_kw,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,torque_nm,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,battery_pack_voltage,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,battery_pack_arch,EV Database — Porsche Taycan (2024-2026),https://ev-database.org/car/2098/Porsche-Taycan,2026-09
+porsche-taycan-rwd,range_epa_mi,EPA fueleconomy.gov — 2026 Porsche Taycan Performance Battery,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+porsche-taycan-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Porsche Taycan Performance Battery,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+porsche-taycan-rwd,dc_connector_us,"Porsche Newsroom USA, 17 June 2026 - the model year 2027 Taycan's ""passenger side DC fast charging port now NACS native"", so the 2026 car is not; 2026 models ship with a NACS DC adapter instead",https://newsroom.porsche.com/en_US/2026/products/model-year-2027-porsche-taycan-updates-e-shift-with-virtual-gears.html,2026-09
+porsche-taycan-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Porsche Taycan Performance Battery, certification record 50242",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+porsche-taycan-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Porsche Taycan Performance Battery, certification record 50242",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+porsche-taycan-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Porsche Taycan Performance Battery, certification record 50242",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+porsche-taycan-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Porsche Taycan Performance Battery, certification record 50242",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=50242,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_gross_kwh,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_usable_kwh,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_chemistry,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,range_wltp_km,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,range_real_world_km,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,efficiency_wltp_wh_per_km,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,dc_peak_kw,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,dc_10_80_min,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,ac_onboard_kw,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,accel_0_100_kmh_s,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,top_speed_kmh,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,curb_weight_kg,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,msrp_eur,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,msrp_gbp,EV Database — Hyundai IONIQ 6 Long Range 2WD,https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — passenger-car class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+hyundai-ioniq-6-long-range-rwd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+hyundai-ioniq-6-long-range-rwd,warranty_battery_years,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-6-long-range-rwd,warranty_battery_mi,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-6-long-range-rwd,warranty_soh_floor,"2026 Owner's Handbook & Warranty Information (Hyundai USA) (US, MY2026)",https://www.hyundaiusa.com/content/dam/hyundai/us/com/pdf/assurance/2026_owners_handbook_warranty.pdf,2026-09
+hyundai-ioniq-6-long-range-rwd,euroncap_overall_stars,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+hyundai-ioniq-6-long-range-rwd,euroncap_year,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+hyundai-ioniq-6-long-range-rwd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2025 Hyundai Ioniq 6 4 DR RWD,https://www.nhtsa.gov/ratings,2026-09
+hyundai-ioniq-6-long-range-rwd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+hyundai-ioniq-6-long-range-rwd,range_epa_mi,EPA fueleconomy.gov — 2025 Hyundai Ioniq 6 RWD (18 inch Wheels),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+hyundai-ioniq-6-long-range-rwd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2025 Hyundai Ioniq 6 RWD (18 inch Wheels),https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+hyundai-ioniq-6-long-range-rwd,power_kw,EV Database — Hyundai IONIQ 6 Long Range 2WD (MY23-25),https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,torque_nm,EV Database — Hyundai IONIQ 6 Long Range 2WD (MY23-25),https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_pack_voltage,EV Database — Hyundai IONIQ 6 Long Range 2WD (MY23-25),https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,battery_pack_arch,EV Database — Hyundai IONIQ 6 Long Range 2WD (MY23-25),https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,v2l_kw,EV Database — Hyundai IONIQ 6 Long Range 2WD (MY23-25),https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD,2026-09
+hyundai-ioniq-6-long-range-rwd,msrp_usd,"Hyundai USA — 2025 IONIQ 6 features & specs, SE Long Range RWD (342-mile EPA range) starting MSRP, excludes destination; 2025 is the current model year listed",https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs,2026-09
+hyundai-ioniq-6-long-range-rwd,model_year,"Hyundai USA — 2025 IONIQ 6 features & specs, SE Long Range RWD (342-mile EPA range) starting MSRP, excludes destination; 2025 is the current model year listed",https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs,2026-09
+hyundai-ioniq-6-long-range-rwd,dc_connector_us,"Hyundai USA Newsroom, 25 March 2025 - the current IONIQ 6 is listed among the models ""equipped with a Combined Charging System (CCS) port"" that reach Superchargers through a NACS adapter",https://www.hyundainews.com/releases/4406,2026-09
+hyundai-ioniq-6-long-range-rwd,range_epa_city_mi,"EPA fueleconomy.gov - 2025 Hyundai Ioniq 6 RWD (18 inch Wheels), certification record 48362",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+hyundai-ioniq-6-long-range-rwd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2025 Hyundai Ioniq 6 RWD (18 inch Wheels), certification record 48362",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+hyundai-ioniq-6-long-range-rwd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Hyundai Ioniq 6 RWD (18 inch Wheels), certification record 48362",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+hyundai-ioniq-6-long-range-rwd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2025 Hyundai Ioniq 6 RWD (18 inch Wheels), certification record 48362",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=48362,2026-09
+tesla-model-y-long-range-awd,battery_gross_kwh,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,battery_usable_kwh,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,battery_chemistry,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,range_wltp_km,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,range_real_world_km,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,efficiency_wltp_wh_per_km,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,dc_peak_kw,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,dc_10_80_min,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,ac_onboard_kw,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,accel_0_100_kmh_s,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,top_speed_kmh,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,curb_weight_kg,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,msrp_eur,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,msrp_gbp,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,range_epa_mi,EPA fueleconomy.gov — 2026 Tesla Model Y Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09
+tesla-model-y-long-range-awd,efficiency_epa_kwh_per_100mi,EPA fueleconomy.gov — 2026 Tesla Model Y Long Range AWD,https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09
+tesla-model-y-long-range-awd,degradation_pct_per_year,"Geotab EV battery degradation study, 2025 — SUV and MPV class rate, not a measurement of this model",https://www.geotab.com/fleet-management-solutions/ev-battery-degradation-tool/,2026-09
+tesla-model-y-long-range-awd,soh_projection_8yr,Straight-line projection from the class rate above; method published at /methodology/,https://evmodelcompare.com/methodology/#degradation,2026-09
+tesla-model-y-long-range-awd,battery_replacement_usd,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+tesla-model-y-long-range-awd,battery_replacement_eur,EV Model Compare estimate — formula on the methodology page,https://evmodelcompare.com/methodology/#battery-replacement,2026-09
+tesla-model-y-long-range-awd,warranty_battery_years,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-y-long-range-awd,warranty_battery_mi,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-y-long-range-awd,warranty_soh_floor,"Tesla New Vehicle Limited Warranty (North America), Battery and Drive Unit, effective 2026/09/01 — Long Range tier (sold as Premium from 2026)",https://digitalassets.tesla.com/tesla-contents/image/upload/tesla-new-vehicle-limited-warranty-en-us.pdf,2026-09
+tesla-model-y-long-range-awd,euroncap_overall_stars,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+tesla-model-y-long-range-awd,euroncap_year,Euro NCAP published rating,https://www.euroncap.com/,2026-09
+tesla-model-y-long-range-awd,nhtsa_overall_stars,NHTSA 5-Star Safety Ratings — 2026 TESLA MODEL Y SUV BEV AWD 2ND RELEASE,https://www.nhtsa.gov/ratings,2026-09
+tesla-model-y-long-range-awd,recall_count,"NHTSA recall database — battery, electrical and powertrain campaigns only, last four model years",https://www.nhtsa.gov/recalls,2026-09
+tesla-model-y-long-range-awd,power_kw,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,torque_nm,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,battery_pack_voltage,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,battery_pack_arch,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,battery_cell_supplier,EV Database — Tesla Model Y Long Range AWD (Juniper),https://ev-database.org/car/3104/Tesla-Model-Y-Long-Range-AWD,2026-09
+tesla-model-y-long-range-awd,dc_connector_us,Tesla — North American Charging Standard: all Tesla vehicles sold in North America use a NACS charge port,https://www.tesla.com/NACS,2026-09
+tesla-model-y-long-range-awd,dc_connector,Tesla — North American Charging Standard: all Tesla vehicles sold in North America use a NACS charge port,https://www.tesla.com/NACS,2026-09
+tesla-model-y-long-range-awd,range_epa_city_mi,"EPA fueleconomy.gov - 2026 Tesla Model Y Long Range AWD, certification record 49744",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09
+tesla-model-y-long-range-awd,range_epa_hwy_mi,"EPA fueleconomy.gov - 2026 Tesla Model Y Long Range AWD, certification record 49744",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09
+tesla-model-y-long-range-awd,efficiency_epa_city_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Tesla Model Y Long Range AWD, certification record 49744",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09
+tesla-model-y-long-range-awd,efficiency_epa_hwy_kwh_per_100mi,"EPA fueleconomy.gov - 2026 Tesla Model Y Long Range AWD, certification record 49744",https://www.fueleconomy.gov/feg/Find.do?action=sbs&id=49744,2026-09

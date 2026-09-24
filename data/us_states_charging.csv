@@ -1,0 +1,52 @@
+code,state,residential_cents_per_kwh,rank_cheapest,home_charging_usd_per_month,page_url,dc_fast_sites,dc_fast_plugs,single_plug_sites,largest_network,largest_network_plugs,nacs_sites,ccs_sites,chademo_sites
+NV,Nevada,13.11,1,46,https://evmodelcompare.com/charging/nevada/,141,1174,22,Tesla,870,72,79,36
+NE,Nebraska,13.25,2,46,https://evmodelcompare.com/charging/nebraska/,93,282,48,Tesla,92,16,84,48
+UT,Utah,13.37,3,47,https://evmodelcompare.com/charging/utah/,194,1009,61,Tesla,484,69,150,69
+LA,Louisiana,13.49,4,47,https://evmodelcompare.com/charging/louisiana/,94,410,31,Tesla,223,23,76,26
+TN,Tennessee,14.07,5,49,https://evmodelcompare.com/charging/tennessee/,247,1024,124,Tesla,594,85,200,87
+ND,North Dakota,14.12,7,49,https://evmodelcompare.com/charging/north-dakota/,43,143,17,Tesla,60,10,36,13
+AR,Arkansas,14.12,6,49,https://evmodelcompare.com/charging/arkansas/,65,287,12,Tesla,103,21,55,15
+KY,Kentucky,14.26,8,50,https://evmodelcompare.com/charging/kentucky/,114,460,31,Tesla,210,45,95,20
+OK,Oklahoma,14.33,9,50,https://evmodelcompare.com/charging/oklahoma/,189,897,37,FCN,426,34,173,109
+ID,Idaho,14.37,10,50,https://evmodelcompare.com/charging/idaho/,86,309,27,Tesla,142,23,69,35
+NC,North Carolina,14.74,11,52,https://evmodelcompare.com/charging/north-carolina/,362,1888,106,Tesla,1090,118,265,141
+MS,Mississippi,14.88,12,52,https://evmodelcompare.com/charging/mississippi/,99,345,45,Tesla,144,25,87,31
+WA,Washington,14.91,13,52,https://evmodelcompare.com/charging/washington/,529,2315,173,Tesla,977,161,442,217
+NM,New Mexico,15.06,14,53,https://evmodelcompare.com/charging/new-mexico/,177,611,67,Tesla,218,31,153,92
+FL,Florida,15.1,15,53,https://evmodelcompare.com/charging/florida/,890,5128,202,Tesla,2801,375,637,271
+MT,Montana,15.14,16,53,https://evmodelcompare.com/charging/montana/,55,258,13,Tesla,160,23,34,14
+AZ,Arizona,15.18,17,53,https://evmodelcompare.com/charging/arizona/,215,1504,48,Tesla,970,84,155,53
+WY,Wyoming,15.24,18,53,https://evmodelcompare.com/charging/wyoming/,45,169,11,Tesla,80,13,33,5
+SD,South Dakota,15.36,19,54,https://evmodelcompare.com/charging/south-dakota/,46,157,18,Tesla,68,12,35,13
+WV,West Virginia,15.45,20,54,https://evmodelcompare.com/charging/west-virginia/,56,217,19,Tesla,142,20,38,13
+SC,South Carolina,15.55,21,54,https://evmodelcompare.com/charging/south-carolina/,203,938,90,Tesla,572,56,158,50
+KS,Kansas,15.71,22,55,https://evmodelcompare.com/charging/kansas/,86,382,23,Tesla,176,25,68,32
+IA,Iowa,15.93,23,56,https://evmodelcompare.com/charging/iowa/,149,577,30,Tesla,178,21,130,64
+TX,Texas,15.94,24,56,https://evmodelcompare.com/charging/texas/,883,5374,194,Tesla,2829,370,685,197
+MO,Missouri,16.22,25,57,https://evmodelcompare.com/charging/missouri/,224,893,78,Tesla,355,56,186,87
+OR,Oregon,16.32,26,57,https://evmodelcompare.com/charging/oregon/,337,1319,164,Tesla,656,82,276,180
+GA,Georgia,16.36,27,57,https://evmodelcompare.com/charging/georgia/,539,2281,260,Tesla,1137,176,451,225
+AL,Alabama,16.4,28,57,https://evmodelcompare.com/charging/alabama/,238,891,129,Tesla,477,74,205,108
+CO,Colorado,17.13,29,60,https://evmodelcompare.com/charging/colorado/,498,1687,251,Tesla,630,127,454,247
+VA,Virginia,17.22,30,60,https://evmodelcompare.com/charging/virginia/,369,1826,85,Tesla,1031,123,253,109
+IN,Indiana,17.51,31,61,https://evmodelcompare.com/charging/indiana/,213,1012,63,Tesla,540,59,162,68
+MN,Minnesota,17.52,32,61,https://evmodelcompare.com/charging/minnesota/,251,914,83,Tesla,340,63,213,57
+OH,Ohio,19.19,33,67,https://evmodelcompare.com/charging/ohio/,428,1535,188,Tesla,561,91,369,172
+DE,Delaware,19.29,34,67,https://evmodelcompare.com/charging/delaware/,56,311,9,Tesla,188,22,35,15
+WI,Wisconsin,19.56,35,68,https://evmodelcompare.com/charging/wisconsin/,239,910,72,Tesla,347,75,202,53
+IL,Illinois,19.89,36,70,https://evmodelcompare.com/charging/illinois/,605,2891,127,Tesla,926,126,530,113
+PA,Pennsylvania,21.73,37,76,https://evmodelcompare.com/charging/pennsylvania/,425,2020,109,Tesla,1093,170,320,92
+MD,Maryland,21.84,38,76,https://evmodelcompare.com/charging/maryland/,356,1527,98,Tesla,716,88,282,196
+MI,Michigan,22.99,39,80,https://evmodelcompare.com/charging/michigan/,558,1746,179,RED_E,571,104,507,184
+CT,Connecticut,24.32,40,85,https://evmodelcompare.com/charging/connecticut/,193,761,82,Tesla,428,53,154,90
+DC,Washington DC,24.39,41,85,https://evmodelcompare.com/charging/washington-dc/,10,61,1,Tesla,36,4,6,2
+VT,Vermont,24.44,42,86,https://evmodelcompare.com/charging/vermont/,106,319,41,Tesla,78,15,97,57
+NJ,New Jersey,24.95,43,87,https://evmodelcompare.com/charging/new-jersey/,412,2114,138,Tesla,1256,144,344,139
+NH,New Hampshire,27.01,44,95,https://evmodelcompare.com/charging/new-hampshire/,81,346,32,Tesla,186,25,61,31
+AK,Alaska,28.21,45,99,https://evmodelcompare.com/charging/alaska/,26,100,5,Tesla,51,10,19,12
+RI,Rhode Island,29.23,46,102,https://evmodelcompare.com/charging/rhode-island/,48,146,20,Tesla,60,9,42,19
+NY,New York,29.49,47,103,https://evmodelcompare.com/charging/new-york/,759,3415,208,Tesla,1337,227,666,210
+ME,Maine,29.59,48,104,https://evmodelcompare.com/charging/maine/,136,435,74,Tesla,208,44,113,67
+MA,Massachusetts,29.61,49,104,https://evmodelcompare.com/charging/massachusetts/,527,1971,218,Tesla,678,115,463,184
+CA,California,34.74,50,122,https://evmodelcompare.com/charging/california/,2690,18572,808,Tesla,11159,1045,2016,1124
+HI,Hawaii,52.72,51,184,https://evmodelcompare.com/charging/hawaii/,47,179,6,OpConnect,72,14,37,41
