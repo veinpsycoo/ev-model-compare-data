@@ -10,7 +10,7 @@ campaign identifiers, and US state charging information.
 | `data/ev_models.csv` | 40 | One vehicle model per row |
 | `data/ev_models.json` | 40 | The same vehicle model records |
 | `data/sources.csv` | 987 | Sources for individual vehicle fields |
-| `data/recalls.csv` | 75 | NHTSA campaign identifiers and links |
+| `data/recalls.csv` | 75 | Up to 3 NHTSA campaign identifiers and links per model |
 | `data/us_states_charging.csv` | 51 | Residential rates and DC fast charging by state |
 
 ## Column dictionary
@@ -29,8 +29,12 @@ campaign identifiers, and US state charging information.
   warranty and safety information.
 - `est_*`: modelled estimates; see
   https://evmodelcompare.com/methodology/.
-- `sources.csv`: `slug`, `field`, `source`, `url`, `as_of`.
-- `recalls.csv`: `slug`, `campaign_id`, `nhtsa_url`.
+- `sources.csv`: `slug`, `field`, `source`, `url`, `as_of`. `field` is the
+  column name in `ev_models.csv` the source supports.
+- `recalls.csv`: `slug`, `campaign_id`, `nhtsa_url`. Lists at most three
+  campaigns per model; `recall_count` in `ev_models.csv` is the full total
+  (e.g. 10 for a model with three rows here). Look up the complete list on
+  NHTSA by VIN or model.
 - `us_states_charging.csv`: state code/name, residential electricity rate,
   cheapest-rate rank, monthly home charging cost for a median EPA car driven
   1,125 miles/month, page URL, DC fast sites and plugs, network, and connector
