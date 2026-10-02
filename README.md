@@ -21,7 +21,12 @@ campaign identifiers, and US state charging information.
 - `battery_*`: battery chemistry, construction, capacity, supplier, thermal
   management, and voltage.
 - `range_*`, `efficiency_*`: driving range and energy consumption under the
-  named test cycle or real-world estimate.
+  named test cycle or real-world estimate. Exception:
+  `efficiency_wltp_wh_per_km` currently holds the real-world consumption
+  (`battery_usable_kwh` × 1000 / `range_real_world_km`, from EV Database),
+  not the WLTP rated figure — they match within 1 Wh/km in 17 of the 18
+  rows that have the field. WLTP rated consumption is lower (e.g. Tesla
+  Model Y RWD 131 vs 158 Wh/km).
 - `dc_*`, `ac_onboard_kw`, `v2l_kw`: charging and power export specifications.
 - `power_kw`, `torque_nm`, `accel_*`, `top_speed_kmh`: performance.
 - `msrp_*`: listed prices in the named currency.
